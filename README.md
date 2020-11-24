@@ -13,3 +13,5 @@ To use ```trec_eval.exe```, cygwin must be installed and ```C:/cygwin64/bin``` m
 
 #### Links
 - [Glove 300d word embeddings](https://drive.google.com/file/d/1Y6022PHZp8PhRicet5qGyMg2tbmV8i31/view?usp=sharing)
+- [MSMARCO docs lucene index](https://drive.google.com/file/d/13rQQbZndcqRNZ2oHSG_WKVlcYCDUHYUX/view)
+- [MSMARCO docs trec gz](https://drive.google.com/file/d/145-oX04S0TFKPEP5TwGCAlXfsiAs7MnP/view?usp=sharing)
