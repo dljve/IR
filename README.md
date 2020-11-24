@@ -1,5 +1,6 @@
 # Information Retrieval
 
+#### Indexes
 
 Converting ```ms-marco.trec.gz``` to lucene index:
 ```
@@ -8,6 +9,7 @@ python -m pyserini.index -collection CleanTrecCollection -generator DefaultLucen
 
 where ```-input``` specifies the folder with the file ```ms-marco.trec.gz``` and ```-index``` specifies the output folder. Pyserini needs to be installed.
 
+#### Evaluation
 
 To use ```trec_eval.exe```, cygwin must be installed and ```C:/cygwin64/bin``` must be added to the system and environment ```PATH``` variable.
 
