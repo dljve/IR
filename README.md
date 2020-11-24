@@ -10,3 +10,6 @@ where ```-input``` specifies the folder with the file ```ms-marco.trec.gz``` and
 
 
 To use ```trec_eval.exe```, cygwin must be installed and ```C:/cygwin64/bin``` must be added to the system and environment ```PATH``` variable.
+
+#### Links
+- [Glove 300d word embeddings](https://drive.google.com/file/d/1Y6022PHZp8PhRicet5qGyMg2tbmV8i31/view?usp=sharing)
