@@ -1,4 +1,4 @@
-# IR
+# Information Retrieval
 
 
 Converting ms-marco.trec.gz to lucene index:
